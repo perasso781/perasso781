@@ -60,16 +60,6 @@ Plataforma completa de automação de operações financeiras com painel adminis
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Igor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=perasso781&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=perasso781&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
 ---
 
 ## 📂 Repositórios de Estudo
